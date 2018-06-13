@@ -1,0 +1,18 @@
+{
+    "name": "codecoffee/hasher",
+    "description": "Md5 hash for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Code Coffee",
+            "email": "736074781@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CodeCoffee\\Hasher\\": "src/"
+        }
+    }
+}
