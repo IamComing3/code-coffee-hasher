@@ -2,6 +2,8 @@
 ![Language](https://img.shields.io/badge/language-php-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-000000.svg)
 ![code-intelligence](https://scrutinizer-ci.com/g/IamComing3/code-coffee-hasher/badges/code-intelligence.svg?b=master)
+![build](https://scrutinizer-ci.com/g/IamComing3/code-coffee-hasher/badges/build.png?b=master)
+![Scrutinizer](https://scrutinizer-ci.com/g/IamComing3/code-coffee-hasher/badges/quality-score.png?b=master)
 
 # code-coffee-hasher
 This is test demo 
